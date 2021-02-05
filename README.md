@@ -1,7 +1,7 @@
-### Howdy! I'm Suzy and I'm a Full-stack Web Developer 👋
+### Howdy! I'm Suzy and I'm a creative and curious Full Stack Web Developer 👋
 
 
-*I'm a new Full-Stack Developer with a marketing and creative content background!*
+*I'm a new Full Stack Web Developer with a marketing and creative content background!*
 
 🌱 I’m currently learning more about React and polishing my UX/UI design skills!
 📫 Feel free to email me at suzy.lebel@gmail.com
