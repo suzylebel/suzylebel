@@ -3,8 +3,8 @@
 
 Currently I do creative content for the outdoor industry and I'm open to collaborating on new projects and ideas! 
 
-- 🌱 I’m currently learning more about React and polishing my UX/UI design skills!
-- 📫: suzy.lebel@gmail.com
+🌱 I’m currently learning more about React and polishing my UX/UI design skills!
+📫 Feel free to email me at suzy.lebel@gmail.com
 
 [Check out my LinkedIn here!](https://www.linkedin.com/in/suzanne-le-bel-b24032125/)
 
