@@ -9,7 +9,7 @@
 [Check out my LinkedIn here!](https://www.linkedin.com/in/suzanne-le-bel-b24032125/)
 
 Day to Day I love creating content and studying code, but when I'm away from my computer I enjoy exploring places like here.
-[!](https://images.app.goo.gl/ZMS29u4VmVqSBQWcA)
+![](https://images.app.goo.gl/ZMS29u4VmVqSBQWcA)
 
 
 
